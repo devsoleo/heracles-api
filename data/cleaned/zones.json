@@ -1,0 +1,4322 @@
+[
+   {
+      ".entry": 1,
+      ".name": "Dun Morogh",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3,
+      ".name": "Terres ingrates",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4,
+      ".name": "Terres foudroyées",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 8,
+      ".name": "Marais des Chagrins",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 10,
+      ".name": "Bois de la Pénombre",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 11,
+      ".name": "Les Paluns",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 12,
+      ".name": "Forêt d'Elwynn",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 14,
+      ".name": "Durotar",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 15,
+      ".name": "Marécage d'Âprefange",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 16,
+      ".name": "Azshara",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 17,
+      ".name": "Les Tarides",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 21,
+      ".name": "Kul Tiras",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 22,
+      ".name": "Île des programmeurs",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 25,
+      ".name": "Mont Rochenoire",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 28,
+      ".name": "Maleterres de l'ouest",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 30,
+      ".name": "Neuf",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 33,
+      ".name": "Vallée de Strangleronce",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 36,
+      ".name": "Montagnes d'Alterac",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 38,
+      ".name": "Loch Modan",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 40,
+      ".name": "Marche de l'Ouest",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 41,
+      ".name": "Défilé de Deuillevent",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 44,
+      ".name": "Les Carmines",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 45,
+      ".name": "Hautes-terres d'Arathi",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 46,
+      ".name": "Steppes ardentes",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 47,
+      ".name": "Les Hinterlands",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 51,
+      ".name": "Gorge des Vents brûlants",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 65,
+      ".name": "Désolation des dragons",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 66,
+      ".name": "Zul'Drak",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 67,
+      ".name": "Les pics Foudroyés",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 85,
+      ".name": "Clairières de Tirisfal",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 130,
+      ".name": "Forêt des Pins argentés",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 139,
+      ".name": "Maleterres de l'est",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 141,
+      ".name": "Teldrassil",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 148,
+      ".name": "Sombrivage",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 151,
+      ".name": "Île des concepteurs",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 170,
+      ".name": "Lac Lordamere",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 206,
+      ".name": "Donjon d'Utgarde",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 207,
+      ".name": "La Grande mer",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 209,
+      ".name": "Donjon d'Ombrecroc",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 210,
+      ".name": "La Couronne de glace",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 214,
+      ".name": "La Grande mer",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 215,
+      ".name": "Mulgore",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 267,
+      ".name": "Contreforts de Hautebrande",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 268,
+      ".name": "Cratère d'Azshara",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 269,
+      ".name": "Dun Algaz",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 293,
+      ".name": "Mur de Thoradin",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 308,
+      ".name": "La Mer interdite",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 330,
+      ".name": "Viaduc de Thandol",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 331,
+      ".name": "Orneval",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 332,
+      ".name": "La Grande mer",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 357,
+      ".name": "Féralas",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 361,
+      ".name": "Gangrebois",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 377,
+      ".name": "La Furie-du-Sud",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 394,
+      ".name": "Les Grisonnes",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 400,
+      ".name": "Mille pointes",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 405,
+      ".name": "Désolace",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 406,
+      ".name": "Les Serres-Rocheuses",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 408,
+      ".name": "Île de Gillijim",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 409,
+      ".name": "Île du docteur Lapidis",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 440,
+      ".name": "Tanaris",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 457,
+      ".name": "La Mer voilée",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 490,
+      ".name": "Cratère d'Un'Goro",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 491,
+      ".name": "Kraal de Tranchebauge",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 493,
+      ".name": "Reflet-de-Lune",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 495,
+      ".name": "Fjord Hurlant",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 616,
+      ".name": "Hyjal",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 618,
+      ".name": "Berceau-de-l'Hiver",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 676,
+      ".name": "Outreterre",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 717,
+      ".name": "La Prison",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 718,
+      ".name": "Cavernes des lamentations",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 719,
+      ".name": "Profondeurs de Brassenoire",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 721,
+      ".name": "Gnomeregan",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 722,
+      ".name": "Souilles de Tranchebauge",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 796,
+      ".name": "Monastère écarlate",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 876,
+      ".name": "Île des MJ",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 956,
+      ".name": "Les Champs verdoyants",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1176,
+      ".name": "Zul'Farrak",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1196,
+      ".name": "Cime d'Utgarde",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1337,
+      ".name": "Uldaman",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1377,
+      ".name": "Silithus",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1397,
+      ".name": "Forêt d'émeraude",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1417,
+      ".name": "Temple englouti",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1477,
+      ".name": "Le temple d'Atal'Hakkar",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1497,
+      ".name": "Fossoyeuse",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1519,
+      ".name": "Hurlevent",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1537,
+      ".name": "Forgefer",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1581,
+      ".name": "Les Mortemines",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1583,
+      ".name": "Pic Rochenoire",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1584,
+      ".name": "Profondeurs de Rochenoire",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1637,
+      ".name": "Orgrimmar",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1638,
+      ".name": "Les Pitons du Tonnerre",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1657,
+      ".name": "Darnassus",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1941,
+      ".name": "Grottes du temps",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1977,
+      ".name": "Zul'Gurub",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 2017,
+      ".name": "Stratholme",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 2037,
+      ".name": "Quel'thalas",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 2057,
+      ".name": "Scholomance",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 2100,
+      ".name": "Maraudon",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 2159,
+      ".name": "Repaire d'Onyxia",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 2257,
+      ".name": "Tram des profondeurs",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 2280,
+      ".name": "[NE PAS UTILISER]",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 2366,
+      ".name": "Le Noir Marécage",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 2367,
+      ".name": "Contreforts de Hautebrande d'antan",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 2437,
+      ".name": "Gouffre de Ragefeu",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 2557,
+      ".name": "Hache-tripes",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 2597,
+      ".name": "Vallée d'Alterac",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 2677,
+      ".name": "Repaire de l'Aile noire",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 2717,
+      ".name": "Cœur du Magma",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 2817,
+      ".name": "Forêt du Chant de cristal",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 2917,
+      ".name": "Hall des Légendes",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 2918,
+      ".name": "Hall des Champions",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3277,
+      ".name": "Goulet des Chanteguerres",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3358,
+      ".name": "Bassin d'Arathi",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3428,
+      ".name": "Ahn'Qiraj",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3429,
+      ".name": "Ruines d'Ahn'Qiraj",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3430,
+      ".name": "Bois des Chants éternels",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3433,
+      ".name": "Les Terres fantômes",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3455,
+      ".name": "La mer Boréale",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3456,
+      ".name": "Naxxramas",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3457,
+      ".name": "Karazhan",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3459,
+      ".name": "Capitales",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3477,
+      ".name": "Azjol-Nérub",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3478,
+      ".name": "Portes d'Ahn'Qiraj",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3479,
+      ".name": "La Mer voilée",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3483,
+      ".name": "Péninsule des Flammes infernales",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3487,
+      ".name": "Lune-d'argent",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3518,
+      ".name": "Nagrand",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3519,
+      ".name": "Forêt de Terokkar",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3520,
+      ".name": "Vallée d'Ombrelune",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3521,
+      ".name": "Marécage de Zangar",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3522,
+      ".name": "Les Tranchantes",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3523,
+      ".name": "Raz-de-Néant",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3524,
+      ".name": "Île de Brume-azur",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3525,
+      ".name": "Île de Brume-sang",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3535,
+      ".name": "Citadelle des Flammes infernales",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3537,
+      ".name": "Toundra Boréenne",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3540,
+      ".name": "Le Néant distordu",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3557,
+      ".name": "L'Exodar",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3562,
+      ".name": "Remparts des Flammes infernales",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3605,
+      ".name": "Passé d'Hyjal",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3606,
+      ".name": "Sommet d'Hyjal",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3607,
+      ".name": "Caverne du sanctuaire du Serpent",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3698,
+      ".name": "Arène de Nagrand",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3702,
+      ".name": "Arène des Tranchantes",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3703,
+      ".name": "Shattrath",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3711,
+      ".name": "Bassin de Sholazar",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3713,
+      ".name": "La Fournaise du sang",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3714,
+      ".name": "Les Salles brisées",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3715,
+      ".name": "Le Caveau de la vapeur",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3716,
+      ".name": "La Basse-tourbière",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3717,
+      ".name": "Les enclos aux esclaves",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3789,
+      ".name": "Labyrinthe des ombres",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3790,
+      ".name": "Cryptes Auchenaï",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3791,
+      ".name": "Les salles des Sethekk",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3792,
+      ".name": "Tombes-mana",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3805,
+      ".name": "Zul'Aman",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3817,
+      ".name": "Test",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3820,
+      ".name": "L'Œil du cyclone",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3836,
+      ".name": "Le repaire de Magtheridon",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3845,
+      ".name": "Donjon de la Tempête",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3847,
+      ".name": "La Botanica",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3848,
+      ".name": "L'Arcatraz",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3849,
+      ".name": "Le Méchanar",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3917,
+      ".name": "Auchindoun",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3923,
+      ".name": "Repaire de Gruul",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3948,
+      ".name": "Test de Brian et Pat",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3959,
+      ".name": "Temple noir",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3968,
+      ".name": "Ruines de Lordaeron",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 3979,
+      ".name": "La mer Gelée",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4019,
+      ".name": "Terrain en développement",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4075,
+      ".name": "Plateau du Puits de soleil",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4076,
+      ".name": "Reuse Me 7",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4080,
+      ".name": "Île de Quel'Danas",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4100,
+      ".name": "L'Épuration de Stratholme",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4131,
+      ".name": "Terrasse des Magistères",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4196,
+      ".name": "Donjon de Drak'Tharon",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4197,
+      ".name": "Joug-d'hiver",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4201,
+      ".name": "Larmes de Vordrassil",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4228,
+      ".name": "L'Oculus",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4258,
+      ".name": "La mer Boréale",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4264,
+      ".name": "Les salles de Pierre",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4265,
+      ".name": "Le Nexus",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4272,
+      ".name": "Les salles de Foudre",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4273,
+      ".name": "Ulduar",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4277,
+      ".name": "Azjol-Nérub",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4298,
+      ".name": "Maleterres : l'enclave Écarlate",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4378,
+      ".name": "Arène de Dalaran",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4384,
+      ".name": "Rivage des Anciens",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4395,
+      ".name": "Dalaran",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4406,
+      ".name": "L'Arène des valeureux",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4415,
+      ".name": "Le fort Pourpre",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4416,
+      ".name": "Gundrak",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4493,
+      ".name": "Le sanctum Obsidien",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4494,
+      ".name": "Ahn'kahet : l'Ancien royaume",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4500,
+      ".name": "L'Œil de l'éternité",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4602,
+      ".name": "Force intérieure",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4603,
+      ".name": "Caveau d'Archavon",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4630,
+      ".name": "La mer Boréale",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4710,
+      ".name": "Île des Conquérants",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4722,
+      ".name": "L'épreuve du croisé",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4723,
+      ".name": "L'épreuve du champion",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4742,
+      ".name": "Accostage de Hrothgar",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4763,
+      ".name": "Transport : canonnière de l'Alliance",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4764,
+      ".name": "Transport : canonnière de la Horde",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4809,
+      ".name": "La Forge des âmes",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4812,
+      ".name": "Citadelle de la Couronne de glace",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4813,
+      ".name": "Fosse de Saron",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4820,
+      ".name": "Salles des Reflets",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4832,
+      ".name": "Transport: canonnière de l'Alliance (IGB)",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4833,
+      ".name": "Transport : canonnière de la Horde(IGB)",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4893,
+      ".name": "Le repaire de la reine du Givre",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4894,
+      ".name": "Laboratoire des désopilantes atrocités alchimiques de Putricide",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4895,
+      ".name": "La salle Cramoisie",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4896,
+      ".name": "Le Trône de glace",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4897,
+      ".name": "Le sanctum de Sang",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 4987,
+      ".name": "Le sanctum Rubis",
+      ".locale": "frFR"
+   },
+   {
+      ".entry": 1,
+      ".name": "Dun Morogh",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3,
+      ".name": "Tierras Inhóspitas",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4,
+      ".name": "Las Tierras Devastadas",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 8,
+      ".name": "Pantano de las Penas",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 10,
+      ".name": "Bosque del Ocaso",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 11,
+      ".name": "Los Humedales",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 12,
+      ".name": "Bosque de Elwynn",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 14,
+      ".name": "Durotar",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 15,
+      ".name": "Marjal Revolcafango",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 16,
+      ".name": "Azshara",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 17,
+      ".name": "Los Baldíos",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 21,
+      ".name": "Kul Tiras",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 22,
+      ".name": "Isla del Programador",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 25,
+      ".name": "Montaña Roca Negra",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 28,
+      ".name": "Tierras de la Peste del Oeste",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 30,
+      ".name": "Nine",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 33,
+      ".name": "Vega de Tuercespina",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 36,
+      ".name": "Montañas de Alterac",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 38,
+      ".name": "Loch Modan",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 40,
+      ".name": "Páramos de Poniente",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 41,
+      ".name": "Paso de la Muerte",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 44,
+      ".name": "Montañas Crestagrana",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 45,
+      ".name": "Tierras Altas de Arathi",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 46,
+      ".name": "Las Estepas Ardientes",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 47,
+      ".name": "Tierras del Interior",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 51,
+      ".name": "La Garganta de Fuego",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 65,
+      ".name": "Cementerio de Dragones",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 66,
+      ".name": "Zul'Drak",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 67,
+      ".name": "Las Cumbres Tormentosas",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 85,
+      ".name": "Claros de Tirisfal",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 130,
+      ".name": "Bosque de Argénteos",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 139,
+      ".name": "Tierras de la Peste del Este",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 141,
+      ".name": "Teldrassil",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 148,
+      ".name": "Costa Oscura",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 151,
+      ".name": "Isla del Diseñador",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 170,
+      ".name": "Lago Lordamere",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 206,
+      ".name": "Fortaleza de Utgarde",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 207,
+      ".name": "Mare Magnum",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 209,
+      ".name": "Castillo de Colmillo Oscuro",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 210,
+      ".name": "Corona de Hielo",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 214,
+      ".name": "Mare Magnum",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 215,
+      ".name": "Mulgore",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 267,
+      ".name": "Laderas de Trabalomas",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 268,
+      ".name": "Cráter de Azshara",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 269,
+      ".name": "Dun Algaz",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 293,
+      ".name": "Muralla de Thoradin",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 308,
+      ".name": "Mar Adusto",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 330,
+      ".name": "Puente Thandol",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 331,
+      ".name": "Vallefresno",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 332,
+      ".name": "Mare Magnum",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 357,
+      ".name": "Feralas",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 361,
+      ".name": "Frondavil",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 377,
+      ".name": "Río Furia del Sur",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 394,
+      ".name": "Colinas Pardas",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 400,
+      ".name": "Las Mil Agujas",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 405,
+      ".name": "Desolace",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 406,
+      ".name": "Sierra Espolón",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 408,
+      ".name": "Isla de Gillijim",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 409,
+      ".name": "Isla del Doctor Lapidis",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 440,
+      ".name": "Tanaris",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 457,
+      ".name": "Mar de la Bruma",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 490,
+      ".name": "Cráter de Un'Goro",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 491,
+      ".name": "Horado Rajacieno",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 493,
+      ".name": "Claro de la Luna",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 495,
+      ".name": "Fiordo Aquilonal",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 616,
+      ".name": "Hyjal",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 618,
+      ".name": "Cuna del Invierno",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 676,
+      ".name": "Terrallende",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 717,
+      ".name": "Las Mazmorras",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 718,
+      ".name": "Cuevas de los Lamentos",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 719,
+      ".name": "Cavernas de Brazanegra",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 721,
+      ".name": "Gnomeregan",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 722,
+      ".name": "Zahúrda Rajacieno",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 796,
+      ".name": "Monasterio Escarlata",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 876,
+      ".name": "Isla de los MJ",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 956,
+      ".name": "Los Verdegales",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1176,
+      ".name": "Zul'Farrak",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1196,
+      ".name": "Pináculo de Utgarde",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1337,
+      ".name": "Uldaman",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1377,
+      ".name": "Silithus",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1397,
+      ".name": "Bosque Esmeralda",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1417,
+      ".name": "Templo Sumergido",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1477,
+      ".name": "El Templo de Atal'Hakkar",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1497,
+      ".name": "Entrañas",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1519,
+      ".name": "Ciudad de Ventormenta",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1537,
+      ".name": "Forjaz",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1581,
+      ".name": "Las Minas de la Muerte",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1583,
+      ".name": "Cumbre de Roca Negra",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1584,
+      ".name": "Profundidades de Roca Negra",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1637,
+      ".name": "Orgrimmar",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1638,
+      ".name": "Cima del Trueno",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1657,
+      ".name": "Darnassus",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1941,
+      ".name": "Cavernas del Tiempo",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1977,
+      ".name": "Zul'Gurub",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 2017,
+      ".name": "Stratholme",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 2037,
+      ".name": "Quel'thalas",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 2057,
+      ".name": "Scholomance",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 2100,
+      ".name": "Maraudon",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 2159,
+      ".name": "Guarida de Onyxia",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 2257,
+      ".name": "Tranvía Subterráneo",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 2280,
+      ".name": "DO NOT USE",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 2366,
+      ".name": "La Ciénaga Negra",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 2367,
+      ".name": "Antiguas Laderas de Trabalomas",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 2437,
+      ".name": "Sima Ígnea",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 2557,
+      ".name": "La Masacre",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 2597,
+      ".name": "Valle de Alterac",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 2677,
+      ".name": "Guarida de Alanegra",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 2717,
+      ".name": "Núcleo de Magma",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 2817,
+      ".name": "Bosque Canto de Cristal",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 2917,
+      ".name": "Sala de las Leyendas",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 2918,
+      ".name": "Sala de los Campeones",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3277,
+      ".name": "Garganta Grito de Guerra",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3358,
+      ".name": "Cuenca de Arathi",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3428,
+      ".name": "Ahn'Qiraj",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3429,
+      ".name": "Ruinas de Ahn'Qiraj",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3430,
+      ".name": "Bosque Canción Eterna",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3433,
+      ".name": "Tierras Fantasma",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3455,
+      ".name": "El Mar del Norte",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3456,
+      ".name": "Naxxramas",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3457,
+      ".name": "Karazhan",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3459,
+      ".name": "Ciudad",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3477,
+      ".name": "Azjol-Nerub",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3478,
+      ".name": "Puerta de Ahn'Qiraj",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3479,
+      ".name": "Mar de la Bruma",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3483,
+      ".name": "Península del Fuego Infernal",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3487,
+      ".name": "Ciudad de Lunargenta",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3518,
+      ".name": "Nagrand",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3519,
+      ".name": "Bosque de Terokkar",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3520,
+      ".name": "Valle Sombraluna",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3521,
+      ".name": "Marisma de Zangar",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3522,
+      ".name": "Montañas Filospada",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3523,
+      ".name": "Tormenta Abisal",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3524,
+      ".name": "Isla Bruma Azur",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3525,
+      ".name": "Isla Bruma de Sangre",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3535,
+      ".name": "Ciudadela del Fuego Infernal",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3537,
+      ".name": "Tundra Boreal",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3540,
+      ".name": "El Vacío Abisal",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3557,
+      ".name": "El Exodar",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3562,
+      ".name": "Murallas del Fuego Infernal",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3605,
+      ".name": "El Pasado Hyjal",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3606,
+      ".name": "La Cima Hyjal",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3607,
+      ".name": "Caverna Santuario Serpiente",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3698,
+      ".name": "Arena de Nagrand",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3702,
+      ".name": "Arena Filospada",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3703,
+      ".name": "Ciudad de Shattrath",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3711,
+      ".name": "Cuenca de Sholazar",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3713,
+      ".name": "El Horno de Sangre",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3714,
+      ".name": "Las Salas Arrasadas",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3715,
+      ".name": "La Cámara de Vapor",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3716,
+      ".name": "La Sotiénaga",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3717,
+      ".name": "Recinto de los Esclavos",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3789,
+      ".name": "Laberinto de las Sombras",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3790,
+      ".name": "Criptas Auchenai",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3791,
+      ".name": "Salas Sethekk",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3792,
+      ".name": "Tumbas de Maná",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3805,
+      ".name": "Zul'Aman",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3817,
+      ".name": "Testeo",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3820,
+      ".name": "Ojo de la Tormenta",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3836,
+      ".name": "Guarida de Magtheridon",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3845,
+      ".name": "El Castillo de la Tempestad",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3847,
+      ".name": "El Invernáculo",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3848,
+      ".name": "El Arcatraz",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3849,
+      ".name": "El Mechanar",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3917,
+      ".name": "Auchindoun",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3923,
+      ".name": "Guarida de Gruul",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3948,
+      ".name": "Brian and Pat Test",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3959,
+      ".name": "Templo Oscuro",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3968,
+      ".name": "Ruinas de Lordaeron",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 3979,
+      ".name": "El Mar Gélido",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4019,
+      ".name": "Tierra de Desarrollo",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4075,
+      ".name": "Meseta de La Fuente del Sol",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4076,
+      ".name": "Reuse Me 7",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4080,
+      ".name": "Isla de Quel'Danas",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4100,
+      ".name": "La Matanza de Stratholme",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4131,
+      ".name": "Bancal del Magister",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4196,
+      ".name": "Fortaleza de Drak'Tharon",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4197,
+      ".name": "Conquista del Invierno",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4201,
+      ".name": "Lágrimas de Vordrassil",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4228,
+      ".name": "El Oculus",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4258,
+      ".name": "El Mar del Norte",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4264,
+      ".name": "Cámaras de Piedra",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4265,
+      ".name": "El Nexo",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4272,
+      ".name": "Cámaras de Relámpagos",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4273,
+      ".name": "Ulduar",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4277,
+      ".name": "Azjol-Nerub",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4298,
+      ".name": "Tierras de la Peste: El Enclave Escarlata",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4378,
+      ".name": "Arena de Dalaran",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4384,
+      ".name": "Playa de los Ancestros",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4395,
+      ".name": "Dalaran",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4406,
+      ".name": "El Círculo del Valor",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4415,
+      ".name": "El Bastión Violeta",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4416,
+      ".name": "Gundrak",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4493,
+      ".name": "El Sagrario Obsidiana",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4494,
+      ".name": "Ahn'kahet: El Antiguo Reino",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4500,
+      ".name": "El Ojo de la Eternidad",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4602,
+      ".name": "Fuerza Interior",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4603,
+      ".name": "La Cámara de Archavon",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4630,
+      ".name": "El Mar del Norte",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4710,
+      ".name": "Isla de la Conquista",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4722,
+      ".name": "Prueba del Cruzado",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4723,
+      ".name": "Prueba del Campeón",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4742,
+      ".name": "Desembarco de Hrothgar",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4763,
+      ".name": "Transporte: Nave de Guerra de la Alianza",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4764,
+      ".name": "Transporte: Nave de Guerra de la Horda",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4809,
+      ".name": "La Forja de Almas",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4812,
+      ".name": "Ciudadela de la Corona de Hielo",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4813,
+      ".name": "Foso de Saron",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4820,
+      ".name": "Cámaras de Reflexión",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4832,
+      ".name": "Transporte: Nave de Guerra de la Alianza",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4833,
+      ".name": "Transporte: Nave de Guerra de la Horda",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4893,
+      ".name": "La Guarida de la Reina de Escarcha",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4894,
+      ".name": "Laboratorio Horrores y Risas Alquímicas de Putricidio",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4895,
+      ".name": "La Sala Carmesí",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4896,
+      ".name": "El Trono Helado",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4897,
+      ".name": "El Sagrario de Sangre",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 4987,
+      ".name": "El Sagrario Rubí",
+      ".locale": "esES"
+   },
+   {
+      ".entry": 1,
+      ".name": "Dun Morogh",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3,
+      ".name": "Badlands",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4,
+      ".name": "Blasted Lands",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 8,
+      ".name": "Swamp of Sorrows",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 10,
+      ".name": "Duskwood",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 11,
+      ".name": "Wetlands",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 12,
+      ".name": "Elwynn Forest",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 14,
+      ".name": "Durotar",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 15,
+      ".name": "Dustwallow Marsh",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 16,
+      ".name": "Azshara",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 17,
+      ".name": "The Barrens",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 21,
+      ".name": "Kul Tiras",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 22,
+      ".name": "Programmer Isle",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 25,
+      ".name": "Blackrock Mountain",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 28,
+      ".name": "Western Plaguelands",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 30,
+      ".name": "Nine",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 33,
+      ".name": "Stranglethorn Vale",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 36,
+      ".name": "Alterac Mountains",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 38,
+      ".name": "Loch Modan",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 40,
+      ".name": "Westfall",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 41,
+      ".name": "Deadwind Pass",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 44,
+      ".name": "Redridge Mountains",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 45,
+      ".name": "Arathi Highlands",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 46,
+      ".name": "Burning Steppes",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 47,
+      ".name": "The Hinterlands",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 51,
+      ".name": "Searing Gorge",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 65,
+      ".name": "Dragonblight",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 66,
+      ".name": "Zul'Drak",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 67,
+      ".name": "The Storm Peaks",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 85,
+      ".name": "Tirisfal Glades",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 130,
+      ".name": "Silverpine Forest",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 139,
+      ".name": "Eastern Plaguelands",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 141,
+      ".name": "Teldrassil",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 148,
+      ".name": "Darkshore",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 151,
+      ".name": "Designer Island",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 170,
+      ".name": "Lordamere Lake",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 206,
+      ".name": "Utgarde Keep",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 207,
+      ".name": "The Great Sea",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 209,
+      ".name": "Shadowfang Keep",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 210,
+      ".name": "Icecrown",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 214,
+      ".name": "The Great Sea",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 215,
+      ".name": "Mulgore",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 267,
+      ".name": "Hillsbrad Foothills",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 268,
+      ".name": "Azshara Crater",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 269,
+      ".name": "Dun Algaz",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 293,
+      ".name": "Thoradin's Wall",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 308,
+      ".name": "The Forbidding Sea",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 330,
+      ".name": "Thandol Span",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 331,
+      ".name": "Ashenvale",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 332,
+      ".name": "The Great Sea",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 357,
+      ".name": "Feralas",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 361,
+      ".name": "Felwood",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 377,
+      ".name": "Southfury River",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 394,
+      ".name": "Grizzly Hills",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 400,
+      ".name": "Thousand Needles",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 405,
+      ".name": "Desolace",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 406,
+      ".name": "Stonetalon Mountains",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 408,
+      ".name": "Gillijim's Isle",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 409,
+      ".name": "Island of Doctor Lapidis",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 440,
+      ".name": "Tanaris",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 457,
+      ".name": "The Veiled Sea",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 490,
+      ".name": "Un'Goro Crater",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 491,
+      ".name": "Razorfen Kraul",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 493,
+      ".name": "Moonglade",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 495,
+      ".name": "Howling Fjord",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 616,
+      ".name": "Hyjal",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 618,
+      ".name": "Winterspring",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 676,
+      ".name": "Outland",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 717,
+      ".name": "The Stockade",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 718,
+      ".name": "Wailing Caverns",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 719,
+      ".name": "Blackfathom Deeps",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 721,
+      ".name": "Gnomeregan",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 722,
+      ".name": "Razorfen Downs",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 796,
+      ".name": "Scarlet Monastery",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 876,
+      ".name": "GM Island",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 956,
+      ".name": "The Verdant Fields",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1176,
+      ".name": "Zul'Farrak",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1196,
+      ".name": "Utgarde Pinnacle",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1337,
+      ".name": "Uldaman",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1377,
+      ".name": "Silithus",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1397,
+      ".name": "Emerald Forest",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1417,
+      ".name": "Sunken Temple",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1477,
+      ".name": "The Temple of Atal'Hakkar",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1497,
+      ".name": "Undercity",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1519,
+      ".name": "Stormwind City",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1537,
+      ".name": "Ironforge",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1581,
+      ".name": "The Deadmines",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1583,
+      ".name": "Blackrock Spire",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1584,
+      ".name": "Blackrock Depths",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1637,
+      ".name": "Orgrimmar",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1638,
+      ".name": "Thunder Bluff",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1657,
+      ".name": "Darnassus",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1941,
+      ".name": "Caverns of Time",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1977,
+      ".name": "Zul'Gurub",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 2017,
+      ".name": "Stratholme",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 2037,
+      ".name": "Quel'thalas",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 2057,
+      ".name": "Scholomance",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 2100,
+      ".name": "Maraudon",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 2159,
+      ".name": "Onyxia's Lair",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 2257,
+      ".name": "Deeprun Tram",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 2280,
+      ".name": "DO NOT USE",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 2366,
+      ".name": "The Black Morass",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 2367,
+      ".name": "Old Hillsbrad Foothills",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 2437,
+      ".name": "Ragefire Chasm",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 2557,
+      ".name": "Dire Maul",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 2597,
+      ".name": "Alterac Valley",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 2677,
+      ".name": "Blackwing Lair",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 2717,
+      ".name": "Molten Core",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 2817,
+      ".name": "Crystalsong Forest",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 2917,
+      ".name": "Hall of Legends",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 2918,
+      ".name": "Champions' Hall",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3277,
+      ".name": "Warsong Gulch",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3358,
+      ".name": "Arathi Basin",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3428,
+      ".name": "Ahn'Qiraj",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3429,
+      ".name": "Ruins of Ahn'Qiraj",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3430,
+      ".name": "Eversong Woods",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3433,
+      ".name": "Ghostlands",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3455,
+      ".name": "The North Sea",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3456,
+      ".name": "Naxxramas",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3457,
+      ".name": "Karazhan",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3459,
+      ".name": "City",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3477,
+      ".name": "Azjol-Nerub",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3478,
+      ".name": "Gates of Ahn'Qiraj",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3479,
+      ".name": "The Veiled Sea",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3483,
+      ".name": "Hellfire Peninsula",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3487,
+      ".name": "Silvermoon City",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3518,
+      ".name": "Nagrand",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3519,
+      ".name": "Terokkar Forest",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3520,
+      ".name": "Shadowmoon Valley",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3521,
+      ".name": "Zangarmarsh",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3522,
+      ".name": "Blade's Edge Mountains",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3523,
+      ".name": "Netherstorm",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3524,
+      ".name": "Azuremyst Isle",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3525,
+      ".name": "Bloodmyst Isle",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3535,
+      ".name": "Hellfire Citadel",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3537,
+      ".name": "Borean Tundra",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3540,
+      ".name": "Twisting Nether",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3557,
+      ".name": "The Exodar",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3562,
+      ".name": "Hellfire Ramparts",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3605,
+      ".name": "Hyjal Past",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3606,
+      ".name": "Hyjal Summit",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3607,
+      ".name": "Serpentshrine Cavern",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3698,
+      ".name": "Nagrand Arena",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3702,
+      ".name": "Blade's Edge Arena",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3703,
+      ".name": "Shattrath City",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3711,
+      ".name": "Sholazar Basin",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3713,
+      ".name": "The Blood Furnace",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3714,
+      ".name": "The Shattered Halls",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3715,
+      ".name": "The Steamvault",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3716,
+      ".name": "The Underbog",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3717,
+      ".name": "The Slave Pens",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3789,
+      ".name": "Shadow Labyrinth",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3790,
+      ".name": "Auchenai Crypts",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3791,
+      ".name": "Sethekk Halls",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3792,
+      ".name": "Mana-Tombs",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3805,
+      ".name": "Zul'Aman",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3817,
+      ".name": "Testing",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3820,
+      ".name": "Eye of the Storm",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3836,
+      ".name": "Magtheridon's Lair",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3845,
+      ".name": "Tempest Keep",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3847,
+      ".name": "The Botanica",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3848,
+      ".name": "The Arcatraz",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3849,
+      ".name": "The Mechanar",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3917,
+      ".name": "Auchindoun",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3923,
+      ".name": "Gruul's Lair",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3948,
+      ".name": "Brian and Pat Test",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3959,
+      ".name": "Black Temple",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3968,
+      ".name": "Ruins of Lordaeron",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 3979,
+      ".name": "The Frozen Sea",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4019,
+      ".name": "Development Land",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4075,
+      ".name": "Sunwell Plateau",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4076,
+      ".name": "Reuse Me 7",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4080,
+      ".name": "Isle of Quel'Danas",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4100,
+      ".name": "The Culling of Stratholme",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4131,
+      ".name": "Magisters' Terrace",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4196,
+      ".name": "Drak'Tharon Keep",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4197,
+      ".name": "Wintergrasp",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4201,
+      ".name": "Vordrassil's Tears",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4228,
+      ".name": "The Oculus",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4258,
+      ".name": "The North Sea",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4264,
+      ".name": "Halls of Stone",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4265,
+      ".name": "The Nexus",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4272,
+      ".name": "Halls of Lightning",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4273,
+      ".name": "Ulduar",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4277,
+      ".name": "Azjol-Nerub",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4298,
+      ".name": "Plaguelands: The Scarlet Enclave",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4378,
+      ".name": "Dalaran Arena",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4384,
+      ".name": "Strand of the Ancients",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4395,
+      ".name": "Dalaran",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4406,
+      ".name": "The Ring of Valor",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4415,
+      ".name": "The Violet Hold",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4416,
+      ".name": "Gundrak",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4493,
+      ".name": "The Obsidian Sanctum",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4494,
+      ".name": "Ahn'kahet: The Old Kingdom",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4500,
+      ".name": "The Eye of Eternity",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4602,
+      ".name": "Force Interior",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4603,
+      ".name": "Vault of Archavon",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4630,
+      ".name": "The North Sea",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4710,
+      ".name": "Isle of Conquest",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4722,
+      ".name": "Trial of the Crusader",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4723,
+      ".name": "Trial of the Champion",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4742,
+      ".name": "Hrothgar's Landing",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4763,
+      ".name": "Transport: Alliance Gunship",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4764,
+      ".name": "Transport: Horde Gunship",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4809,
+      ".name": "The Forge of Souls",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4812,
+      ".name": "Icecrown Citadel",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4813,
+      ".name": "Pit of Saron",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4820,
+      ".name": "Halls of Reflection",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4832,
+      ".name": "Transport: Alliance Gunship (IGB)",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4833,
+      ".name": "Transport: Horde Gunship (IGB)",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4893,
+      ".name": "The Frost Queen's Lair",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4894,
+      ".name": "Putricide's Laboratory of Alchemical Horrors and Fun",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4895,
+      ".name": "The Crimson Hall",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4896,
+      ".name": "The Frozen Throne",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4897,
+      ".name": "The Sanctum of Blood",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 4987,
+      ".name": "The Ruby Sanctum",
+      ".locale": "enUS"
+   },
+   {
+      ".entry": 1,
+      ".name": "Dun Morogh",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3,
+      ".name": "Ödland",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4,
+      ".name": "Verwüstete Lande",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 8,
+      ".name": "Sümpfe des Elends",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 10,
+      ".name": "Dämmerwald",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 11,
+      ".name": "Sumpfland",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 12,
+      ".name": "Wald von Elwynn",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 14,
+      ".name": "Durotar",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 15,
+      ".name": "Düstermarschen",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 16,
+      ".name": "Azshara",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 17,
+      ".name": "Brachland",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 21,
+      ".name": "Kul Tiras",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 22,
+      ".name": "Programmierer-Insel",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 25,
+      ".name": "Der Schwarzfels",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 28,
+      ".name": "Westliche Pestländer",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 30,
+      ".name": "Nine",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 33,
+      ".name": "Schlingendorntal",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 36,
+      ".name": "Alteracgebirge",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 38,
+      ".name": "Loch Modan",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 40,
+      ".name": "Westfall",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 41,
+      ".name": "Gebirgspass der Totenwinde",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 44,
+      ".name": "Rotkammgebirge",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 45,
+      ".name": "Arathihochland",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 46,
+      ".name": "Brennende Steppe",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 47,
+      ".name": "Hinterland",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 51,
+      ".name": "Sengende Schlucht",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 65,
+      ".name": "Drachenöde",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 66,
+      ".name": "Zul'Drak",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 67,
+      ".name": "Die Sturmgipfel",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 85,
+      ".name": "Tirisfal",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 130,
+      ".name": "Silberwald",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 139,
+      ".name": "Östliche Pestländer",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 141,
+      ".name": "Teldrassil",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 148,
+      ".name": "Dunkelküste",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 151,
+      ".name": "Designer-Insel",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 170,
+      ".name": "Der Lordameresee",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 206,
+      ".name": "Burg Utgarde",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 207,
+      ".name": "Das große Meer",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 209,
+      ".name": "Burg Schattenfang",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 210,
+      ".name": "Eiskrone",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 214,
+      ".name": "Das große Meer",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 215,
+      ".name": "Mulgore",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 267,
+      ".name": "Vorgebirge des Hügellands",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 268,
+      ".name": "Krater von Azshara",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 269,
+      ".name": "Dun Algaz",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 293,
+      ".name": "Thoradinswall",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 308,
+      ".name": "Das verbotene Meer",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 330,
+      ".name": "Thandolübergang",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 331,
+      ".name": "Eschental",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 332,
+      ".name": "Das große Meer",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 357,
+      ".name": "Feralas",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 361,
+      ".name": "Teufelswald",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 377,
+      ".name": "Der Südstrom",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 394,
+      ".name": "Grizzlyhügel",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 400,
+      ".name": "Tausend Nadeln",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 405,
+      ".name": "Desolace",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 406,
+      ".name": "Steinkrallengebirge",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 408,
+      ".name": "Gillijims Insel",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 409,
+      ".name": "Insel des Doktor Lapidis",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 440,
+      ".name": "Tanaris",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 457,
+      ".name": "Das verhüllte Meer",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 490,
+      ".name": "Krater von Un'Goro",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 491,
+      ".name": "Kral der Klingenhauer",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 493,
+      ".name": "Mondlichtung",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 495,
+      ".name": "Der heulende Fjord",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 616,
+      ".name": "Hyjal",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 618,
+      ".name": "Winterquell",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 676,
+      ".name": "Scherbenwelt",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 717,
+      ".name": "Das Verlies",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 718,
+      ".name": "Die Höhlen des Wehklagens",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 719,
+      ".name": "Tiefschwarze Grotte",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 721,
+      ".name": "Gnomeregan",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 722,
+      ".name": "Hügel der Klingenhauer",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 796,
+      ".name": "Das Scharlachrote Kloster",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 876,
+      ".name": "GM-Insel",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 956,
+      ".name": "Die saftgrünen Felder",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1176,
+      ".name": "Zul'Farrak",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1196,
+      ".name": "Turm Utgarde",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1337,
+      ".name": "Uldaman",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1377,
+      ".name": "Silithus",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1397,
+      ".name": "Smaragdwald",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1417,
+      ".name": "Versunkener Tempel",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1477,
+      ".name": "Der Tempel von Atal'Hakkar",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1497,
+      ".name": "Unterstadt",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1519,
+      ".name": "Sturmwind",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1537,
+      ".name": "Eisenschmiede",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1581,
+      ".name": "Die Todesminen",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1583,
+      ".name": "Schwarzfelsspitze",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1584,
+      ".name": "Schwarzfelstiefen",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1637,
+      ".name": "Orgrimmar",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1638,
+      ".name": "Donnerfels",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1657,
+      ".name": "Darnassus",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1941,
+      ".name": "Höhlen der Zeit",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 1977,
+      ".name": "Zul'Gurub",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 2017,
+      ".name": "Stratholme",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 2037,
+      ".name": "Quel'Thalas",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 2057,
+      ".name": "Scholomance",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 2100,
+      ".name": "Maraudon",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 2159,
+      ".name": "Onyxias Hort",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 2257,
+      ".name": "Die Tiefenbahn",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 2280,
+      ".name": "DO NOT USE",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 2366,
+      ".name": "Der schwarze Morast",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 2367,
+      ".name": "Vorgebirge des Alten Hügellands",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 2437,
+      ".name": "Der Flammenschlund",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 2557,
+      ".name": "Düsterbruch",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 2597,
+      ".name": "Alteractal",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 2677,
+      ".name": "Pechschwingenhort",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 2717,
+      ".name": "Geschmolzener Kern",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 2817,
+      ".name": "Kristallsangwald",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 2917,
+      ".name": "Halle der Legenden",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 2918,
+      ".name": "Halle der Champions",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3277,
+      ".name": "Kriegshymnenschlucht",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3358,
+      ".name": "Arathibecken",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3428,
+      ".name": "Ahn'Qiraj",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3429,
+      ".name": "Ruinen von Ahn'Qiraj",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3430,
+      ".name": "Immersangwald",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3433,
+      ".name": "Geisterlande",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3455,
+      ".name": "Das Nordmeer",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3456,
+      ".name": "Naxxramas",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3457,
+      ".name": "Karazhan",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3459,
+      ".name": "Hauptstädte",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3477,
+      ".name": "Azjol-Nerub",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3478,
+      ".name": "Tore von Ahn'Qiraj",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3479,
+      ".name": "Das verhüllte Meer",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3483,
+      ".name": "Höllenfeuerhalbinsel",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3487,
+      ".name": "Silbermond",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3518,
+      ".name": "Nagrand",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3519,
+      ".name": "Wälder von Terokkar",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3520,
+      ".name": "Schattenmondtal",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3521,
+      ".name": "Zangarmarschen",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3522,
+      ".name": "Schergrat",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3523,
+      ".name": "Nethersturm",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3524,
+      ".name": "Azurmythosinsel",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3525,
+      ".name": "Blutmythosinsel",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3535,
+      ".name": "Höllenfeuerzitadelle",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3537,
+      ".name": "Boreanische Tundra",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3540,
+      ".name": "Wirbelnder Nether",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3557,
+      ".name": "Die Exodar",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3562,
+      ".name": "Höllenfeuerbollwerk",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3605,
+      ".name": "Hyjal der Vergangenheit",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3606,
+      ".name": "Hyjalgipfel",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3607,
+      ".name": "Höhle des Schlangenschreins",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3698,
+      ".name": "Arena von Nagrand",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3702,
+      ".name": "Arena des Schergrats",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3703,
+      ".name": "Shattrath",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3711,
+      ".name": "Sholazarbecken",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3713,
+      ".name": "Der Blutkessel",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3714,
+      ".name": "Die zerschmetterten Hallen",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3715,
+      ".name": "Die Dampfkammer",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3716,
+      ".name": "Der Tiefensumpf",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3717,
+      ".name": "Die Sklavenunterkünfte",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3789,
+      ".name": "Schattenlabyrinth",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3790,
+      ".name": "Auchenaikrypta",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3791,
+      ".name": "Sethekkhallen",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3792,
+      ".name": "Managruft",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3805,
+      ".name": "Zul'Aman",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3817,
+      ".name": "Testing",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3820,
+      ".name": "Auge des Sturms",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3836,
+      ".name": "Magtheridons Kammer",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3845,
+      ".name": "Festung der Stürme",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3847,
+      ".name": "Die Botanika",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3848,
+      ".name": "Die Arkatraz",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3849,
+      ".name": "Die Mechanar",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3917,
+      ".name": "Auchindoun",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3923,
+      ".name": "Gruuls Unterschlupf",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3948,
+      ".name": "Brian und Pat Test",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3959,
+      ".name": "Der Schwarze Tempel",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3968,
+      ".name": "Ruinen von Lordaeron",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 3979,
+      ".name": "Die gefrorene See",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4019,
+      ".name": "Entwicklungsland",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4075,
+      ".name": "Sonnenbrunnenplateau",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4076,
+      ".name": "Benutzt mich wieder 7",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4080,
+      ".name": "Insel von Quel'Danas",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4100,
+      ".name": "Das Ausmerzen von Stratholme",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4131,
+      ".name": "Terrasse der Magister",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4196,
+      ".name": "Feste Drak'Tharon",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4197,
+      ".name": "Tausendwintersee",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4201,
+      ".name": "Vordrassils Tränen",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4228,
+      ".name": "Das Oculus",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4258,
+      ".name": "Das Nordmeer",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4264,
+      ".name": "Die Hallen des Steins",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4265,
+      ".name": "Der Nexus",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4272,
+      ".name": "Die Hallen der Blitze",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4273,
+      ".name": "Ulduar",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4277,
+      ".name": "Azjol-Nerub",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4298,
+      ".name": "Pestländer: Die Scharlachrote Enklave",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4378,
+      ".name": "Arena von Dalaran",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4384,
+      ".name": "Strand der Uralten",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4395,
+      ".name": "Dalaran",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4406,
+      ".name": "Der Ring der Ehre",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4415,
+      ".name": "Die Violette Festung",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4416,
+      ".name": "Gundrak",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4493,
+      ".name": "Das Obsidiansanktum",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4494,
+      ".name": "Ahn'kahet: Das Alte Königreich",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4500,
+      ".name": "Das Auge der Ewigkeit",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4602,
+      ".name": "Das Innere der Macht",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4603,
+      ".name": "Archavons Kammer",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4630,
+      ".name": "Das Nordmeer",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4710,
+      ".name": "Insel der Eroberung",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4722,
+      ".name": "Prüfung des Kreuzfahrers",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4723,
+      ".name": "Prüfung des Champions",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4742,
+      ".name": "Hrothgars Landestelle",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4763,
+      ".name": "Transport: Kanonenboot der Allianz",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4764,
+      ".name": "Transport: Kanonenboot der Horde",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4809,
+      ".name": "Die Seelenschmiede",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4812,
+      ".name": "Eiskronenzitadelle",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4813,
+      ".name": "Grube von Saron",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4820,
+      ".name": "Hallen der Reflexion",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4832,
+      ".name": "Transport: Kanonenschiff der Allianz (IGB)",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4833,
+      ".name": "Transport: Kanonenschiff der Horde (IGB)",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4893,
+      ".name": "Der Hort der Frostkönigin",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4894,
+      ".name": "Seuchenmords Laboratorium der alchemistischen Schrecken und Späße",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4895,
+      ".name": "Die Blutrote Halle",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4896,
+      ".name": "Der Frostthron",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4897,
+      ".name": "Das Sanktum des Blutes",
+      ".locale": "deDE"
+   },
+   {
+      ".entry": 4987,
+      ".name": "Das Rubinsanktum",
+      ".locale": "deDE"
+   }
+]

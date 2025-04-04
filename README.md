@@ -74,33 +74,7 @@ npm run start -- --out-type=sql --file=output.sql AreaTable
 ```
 Attention ! En français / allemand / espagnol il sera nécessaire de convertir le fichier du format utf-8 au format latin.
 
-Pour cela utiliser le script suivant :
-```js
-const fs = require('fs')
-const iconv = require('iconv-lite')
-
-function convertirUtf8VersLatin1(inputFile, outputFile) {
-    fs.readFile(inputFile, 'utf8', (err, data) => {
-        if (err) {
-            console.error(`Erreur lors de la lecture du fichier : ${err.message}`)
-            return
-        }
-
-        const bufferLatin1 = iconv.encode(data, 'latin1')
-
-        fs.writeFile(outputFile, bufferLatin1, (err) => {
-            if (err) {
-                console.error(`Erreur lors de l'écriture du fichier : ${err.message}`)
-                return
-            }
-
-            console.log(`Conversion réussie ! Fichier enregistré sous : ${outputFile}`)
-        })
-    })
-}
-
-convertirUtf8VersLatin1('output.sql', 'output_latin.sql')
-```
+Pour cela, il faut utiliser le script `./script/latin.js`.
 
 ### 2.2 Importer les données vers une base de données AzerothCore
 
