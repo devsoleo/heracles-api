@@ -14,8 +14,8 @@ func HandleSearch(c *gin.Context) {
 	locale := c.Query("locale")
 
 	// TODO : add parentid check
-	if category == "" || query == "" || locale == "" {
-		c.JSON(http.StatusBadRequest, gin.H{"error": "Parameters 'category', 'query' and 'lang' are required"})
+	if category == "" || locale == "" {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "Parameters 'category' and 'locale' are required"})
 		return
 	}
 
