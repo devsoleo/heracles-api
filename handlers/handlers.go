@@ -5,7 +5,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"devsoleo/heracles-back/services"
+	"devsoleo/heracles-api/services"
 )
 
 func HandleSearch(c *gin.Context) {

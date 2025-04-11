@@ -1,8 +1,8 @@
 package router
 
 import (
-    "github.com/gin-gonic/gin"
-    "devsoleo/heracles-back/handlers"
+	"devsoleo/heracles-api/handlers"
+	"github.com/gin-gonic/gin"
 )
 
 func SetupRouter() *gin.Engine {
@@ -10,8 +10,8 @@ func SetupRouter() *gin.Engine {
 
 	api := r.Group("/api")
 	{
-			api.GET("/search", handlers.HandleSearch)
-			api.GET("/generate", handlers.HandleGenerate)
+		api.GET("/search", handlers.HandleSearch)
+		api.GET("/generate", handlers.HandleGenerate)
 	}
 
 	return r

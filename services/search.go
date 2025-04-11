@@ -1,7 +1,7 @@
 package services
 
 import (
-	"devsoleo/heracles-back/database"
+	"devsoleo/heracles-api/database"
 )
 
 type Creature struct {

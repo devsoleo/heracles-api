@@ -1,8 +1,8 @@
 package main
 
 import (
-	"devsoleo/heracles-back/database"
-	"devsoleo/heracles-back/router"
+	"devsoleo/heracles-api/database"
+	"devsoleo/heracles-api/router"
 )
 
 func main() {

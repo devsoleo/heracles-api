@@ -1,4 +1,4 @@
-module devsoleo/heracles-back
+module devsoleo/heracles-api
 
 go 1.24.2
 
