@@ -1,0 +1,33 @@
+stages:          # List of stages for jobs, and their order of execution
+  - build
+  - dockerize
+
+variables:
+  GO_VERSION: "1.24.2"
+  DOCKER_IMAGE: "$CI_REGISTRY_IMAGE:latest"
+
+build:
+  stage: build
+  image: golang:${GO_VERSION}
+  script:
+    - echo "Building Go binary..."
+    - go mod download
+    - CGO_ENABLED=0 GOARCH=amd64 GOOS=linux go build -o myapp main.go
+  artifacts:
+    paths:
+      - myapp
+
+dockerize:
+  stage: dockerize
+  image: docker:latest
+  services:
+    - docker:dind
+  needs:
+  - job: build
+    artifacts: true
+  before_script:
+    - echo "$CI_REGISTRY_PASSWORD" | docker login -u "$CI_REGISTRY_USER" --password-stdin "$CI_REGISTRY"
+  script:
+    - echo "Copying binary into Docker image..."
+    - docker build -t "$DOCKER_IMAGE" .
+    - docker push "$DOCKER_IMAGE"
