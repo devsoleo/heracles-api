@@ -1,7 +1,7 @@
 [![GoLang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)](https://golang.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)](https://sqlite.org/)
 [![Gin](https://img.shields.io/badge/Gin-00A97F?style=for-the-badge)](https://gin-gonic.com/)
-[![Discord](https://img.shields.io/discord/1070782232219877477?color=7289da&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/vhs87h6fvD)
+[![Discord](https://img.shields.io/discord/1187474009911206008?color=7289da&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/vhs87h6fvD)
 
 # Heracles API
 
