@@ -19,15 +19,28 @@ func HandleSearch(c *gin.Context) {
 		return
 	}
 
-	creatures, err := services.Search(category, query, locale, c.Query("parentId"))
+	result, err := services.Search(category, query, locale, c.Query("parentId"))
 	if err != nil {
 		c.JSON(http.StatusInternalServerError, gin.H{"error": err.Error()})
 		return
 	}
 
-	c.JSON(http.StatusOK, creatures)
+	c.JSON(http.StatusOK, result)
 }
 
 func HandleGenerate(c *gin.Context) {
+	var rawForms []map[string]interface{}
 
+	if err := c.ShouldBindJSON(&rawForms); err != nil {
+		c.JSON(http.StatusBadRequest, gin.H{"error": err.Error()})
+		return
+	}
+
+	result, err := services.Generate(rawForms)
+	if err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": err.Error()})
+		return
+	}
+
+	c.JSON(http.StatusOK, result)
 }

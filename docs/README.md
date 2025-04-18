@@ -29,6 +29,8 @@ FROM
   LEFT JOIN creature_template_model AS m ON t.entry = m.CreatureId WHERE name != "";
 ```
 ### 1.2 Supprimer les combos name / locale en double
+
+ATTENTION : NE PAS CLEAN LES SUBZONES !!!!
 ```python
 import json
 

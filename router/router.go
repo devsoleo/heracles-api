@@ -19,7 +19,7 @@ func SetupRouter() *gin.Engine {
 	api := r.Group("/api")
 	{
 		api.GET("/search", handlers.HandleSearch)
-		api.GET("/generate", handlers.HandleGenerate)
+		api.POST("/generate", handlers.HandleGenerate)
 	}
 
 	return r

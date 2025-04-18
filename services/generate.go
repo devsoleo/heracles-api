@@ -1,59 +1,112 @@
 package services
 
-func Generate(rawForms []map[string]interface{}) {
+import (
+	"devsoleo/heracles-api/database"
+	"encoding/json"
+)
 
+const FMT_VERSION = "1.0.0"
+
+type Translation struct {
+	Name   string `json:"name"`
+	Locale string `json:"locale"`
 }
 
-// type KillForm struct {
-// 	Type     string `json:"type"`
-// 	Amount   string `json:"amount"`
-// 	Creature string `json:"creature"`
-// }
+type KillForm struct {
+	Category string `json:"category"`
+	Amount   string `json:"amount"`
+	Creature string `json:"creature"`
+}
 
-// type GoForm struct {
-// 	Type    string `json:"type"`
-// 	Zone    string `json:"zone"`
-// 	Subzone string `json:"subzone"`
-// }
+type GotoForm struct {
+	Category string `json:"category"`
+	Zone     string `json:"zone"`
+	Subzone  string `json:"subzone"`
+}
 
-// type TargetForm struct {
-// 	Type     string `json:"type"`
-// 	Player   string `json:"player"`
-// 	Creature string `json:"creature"`
-// }
+type TargetForm struct {
+	Category string `json:"category"`
+	Entity   string `json:"entity"`
+	Target   string `json:"target"`
+}
 
-// func GenerateKey(c *gin.Context) {
-// 	var rawForms []map[string]interface{}
+func Generate(rawForms []map[string]interface{}) (any, error) {
+	var headers = map[string]interface{}{
+		"format": FMT_VERSION,
+	}
 
-// 	if err := c.ShouldBindJSON(&rawForms); err != nil {
-// 		c.JSON(http.StatusBadRequest, gin.H{"error": err.Error()})
-// 		return
-// 	}
+	var missions []map[string]interface{}
 
-// 	for _, raw := range rawForms {
-// 		if rawType, ok := raw["type"]; ok {
+	// For each mission
+	for _, raw := range rawForms {
+		if rawType, ok := raw["category"]; ok {
+			jsonData, _ := json.Marshal(raw)
 
-// 			jsonData, _ := json.Marshal(raw)
+			switch rawType {
+			case "kill":
+				var form KillForm
+				json.Unmarshal(jsonData, &form)
 
-// 			switch rawType {
-// 			case "K":
-// 				var kForm KillForm
-// 				json.Unmarshal(jsonData, &kForm)
-// 				println(kForm.Type, kForm.Amount, kForm.Creature)
-// 			case "G":
-// 				var gForm GoForm
-// 				json.Unmarshal(jsonData, &gForm)
-// 				println(gForm.Type, gForm.Zone, gForm.Subzone)
-// 			case "T":
-// 				var tForm TargetForm
-// 				json.Unmarshal(jsonData, &tForm)
-// 				println(tForm.Type, tForm.Player, tForm.Creature)
-// 			}
+				missions = append(missions, map[string]interface{}{
+					"category": form.Category,
+					"amount":   form.Amount,
+					"creature": getSecureLocales("creatures", form.Creature),
+				})
+			case "goto":
+				var form GotoForm
+				json.Unmarshal(jsonData, &form)
 
-// 		}
-// 	}
+				missions = append(missions, map[string]interface{}{
+					"category": form.Category,
+					"zone":     getSecureLocales("zones", form.Zone),
+					"subzone":  getSecureLocales("subzones", form.Subzone),
+				})
+			case "target":
+				var form TargetForm
+				json.Unmarshal(jsonData, &form)
 
-// 	c.JSON(http.StatusOK, gin.H{
-// 		"message": "Formulaire reçu",
-// 	})
-// }
+				var target any
+
+				target = form.Target
+
+				if form.Entity == "creature" {
+					target = getSecureLocales("creatures", form.Target)
+				}
+
+				missions = append(missions, map[string]interface{}{
+					"category": form.Category,
+					"entity":   form.Entity,
+					"name":     target,
+				})
+			}
+		}
+	}
+
+	var result = map[string]interface{}{
+		"headers":  headers,
+		"missions": missions,
+	}
+
+	return result, nil
+}
+
+func getLocale(category string, entry string, locale string) string {
+	db := database.GetDB()
+
+	var translation Translation
+
+	if err := db.QueryRow("SELECT name FROM "+category+" WHERE entry = ? AND locale = ?", entry, locale).Scan(&translation.Name); err != nil {
+		return ""
+	}
+
+	return translation.Name
+}
+
+func getSecureLocales(category string, entry string) map[string]interface{} {
+	return map[string]interface{}{
+		"enUS": getLocale(category, entry, "enUS"),
+		"frFR": getLocale(category, entry, "frFR"),
+		"esES": getLocale(category, entry, "esES"),
+		"deDE": getLocale(category, entry, "deDE"),
+	}
+}
